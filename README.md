@@ -1,4 +1,4 @@
-# Live-Streaming-Website
+# Streaming-Website
 
 
 This streaming website will be designed to provide an enjoyable and seamless experience for content enthusiasts. The website will offer a vast selection of content, ranging from the latest blockbusters to classic films, organized by genre, popularity, and other criteria to help users easily find what they're looking for.
